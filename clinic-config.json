@@ -1,0 +1,90 @@
+{
+  "title": "Dr.Sudha Vani's Srih Skin Clinic",
+  "website": "https://srihskinclinic.com/",
+  "clinic_type": "Skin & Aesthetic Clinic",
+  "city": "Hyderabad",
+  "rating": 4.9,
+  "reviews": 488,
+  "hours_text": "Open · Closes 7:30 pm",
+  "phone": "+918588870872",
+  "primary_email": "ssccclinic@gmail.com",
+  "instagram": "dr.sudhavani",
+  "images": [
+    "https://srihskinclinic.com/wp-content/uploads/2025/03/customer-service-2.png",
+    "https://srihskinclinic.com/wp-content/uploads/2025/03/telephone-call.png",
+    "https://srihskinclinic.com/wp-content/uploads/2025/04/1.jpg",
+    "https://srihskinclinic.com/wp-content/uploads/2025/04/2.jpg",
+    "https://srihskinclinic.com/wp-content/uploads/2025/04/3.jpg",
+    "https://srihskinclinic.com/wp-content/uploads/2025/03/quality-1.png",
+    "https://srihskinclinic.com/wp-content/uploads/2025/03/costumer.png",
+    "https://srihskinclinic.com/wp-content/uploads/2025/03/award-symbol-1.png"
+  ],
+  "doctors": [
+    "Dr. Sudha Vani"
+  ],
+  "services": [
+    "Laser Skin / Hair",
+    "HydraFacial / Peels",
+    "Hair Transplant / PRP",
+    "Anti-Aging / Botox / Fillers",
+    "Acne / Scar Treatment",
+    "Clinical Dermatology / Pigmentation"
+  ],
+  "claims": [
+    "Best Dermatologist in Hyderabad",
+    "Sudha Vani, has been providing expert skin and cosmetic treatments since 2003, with branches in Ameerpet and Banjara Hills.",
+    "Skin Treatments Keep your skin healthy, prevent aging, and restore its glow with advanced treatments.",
+    "Hair Treatments Say goodbye to thin hair with advanced treatments for fuller, healthier locks!",
+    "Aesthetics Treatments Enhance your beauty with fillers, lifts, and lasers for tighter, brighter skin!",
+    "Laser Treatments Wrinkles, scars, or blemishes?"
+  ],
+  "scraped_at": "2026-11-17T12:17:52",
+  "ftid": "0x3bcb9727b7c524b7:0x5c29a413f48b10a5",
+  "maps_url": "https://www.google.com/maps/place/Dr.Sudha+Vani%27s+Srih+Skin+Clinic/data=!4m7!3m6!1s0x3bcb9727b7c524b7:0x5c29a413f48b10a5!8m2!3d17.4142914!4d78.4229622!16s%2Fg%2F11f4_2_scw!19sChIJtyTFtyeXyzsRpRCL9BOkKVw?authuser=0&hl=en&g_ep=EgoyMDI2MTExMC4wIJJjKgBIAVAD&rclk=1",
+  "found_via": "cosmetic dermatology skin clinic Banjara Hills Hyderabad",
+  "categories": [
+    "Dermatologist"
+  ],
+  "address": "286/A, Second Floor, Sri Mahaan Heights Mathur Road, Road No. 92",
+  "source": "playwright_gmaps",
+  "closes_at": "7:30 pm",
+  "site_status": "LIVE",
+  "final_url": "https://srihskinclinic.com/",
+  "site_latency_sec": 9.25,
+  "emails": [
+    "ssccclinic@gmail.com"
+  ],
+  "ig_confidence": "high",
+  "wa_links": [],
+  "has_wa_widget": true,
+  "has_booking_form": true,
+  "has_patient_survey": false,
+  "has_ig_agent_cta": false,
+  "has_viewport_meta": true,
+  "uses_https": true,
+  "site_platform": "WordPress / Template",
+  "site_title": "Best Dermatologist in Hyderabad | Dr. Sudha Vani",
+  "site_h1": "",
+  "website_issues": [
+    "No interactive patient assessment survey/intake funnel",
+    "Static WhatsApp link only — no automated 24/7 qualification & follow-up agent",
+    "Outdated/generic template UI (WordPress / Template)",
+    "Slow initial response (9.25s)"
+  ],
+  "redesign_score": 7,
+  "qual_score": 100,
+  "tier": "A",
+  "ig_enrichment": {
+    "followers": 11190,
+    "bio": "Aesthetic Expert with 25+ Years of Experience \nSkin & Hair Solutions | Lasers | Botox | Fillers\n📍 Ameerpet | Banjara Hills\n📞 +91 85888 70872",
+    "latest_post_date": "2026-11-16",
+    "latest_post_caption": "Dealing with persistent intimate itching? Before you grab that random over-the-counter cream, listen up! 🛑 Intimate itching is extremely common, and you are def",
+    "latest_post_url": "https://www.instagram.com/p/DfzXFGix_UZ/"
+  },
+  "rank": 4,
+  "is_top_10": true,
+  "cold_dm_touch1": "noticed dr. sudha vani leads laser skin / hair at dr.sudha vani's srih skin. hey, koushik here — i build dental and skin enquiry desks — roughly what share of people visiting your site or instagram dm actually book a consultation slot?",
+  "cold_dm_words": 42,
+  "video_mail_subject": "website + survey — dr.sudha vani's srih skin",
+  "video_mail_body": "hi dr. sudha vani,\n\ni spent a few minutes on https://srihskinclinic.com/ today (noticed dr. sudha vani leads laser skin / hair at dr.sudha vani's srih skin).\nnoticed a few leaks that cost high-ticket laser skin / hair bookings: No interactive patient assessment survey/intake funnel; Static WhatsApp link only — no automated 24/7 qualification & follow-up agent; Outdated/generic template UI (WordPress / Template).\n\nso i went ahead and redesigned the full website flow for Dr.Sudha Vani's Srih Skin + wired a live interactive patient survey with automated whatsapp & instagram follow-up agents.\n\nrecorded a quick 30-second video walking through it for you here:\n[ATTACH OR PASTE 30-SECOND VIDEO + DEMO LINK HERE]\n\nif you like how it feels, happy to walk through connecting it to your clinic number & ig inbox in 10 mins — today 7:30 pm or tomorrow 11:30 am?\n\n— koushik\nunderstone ai automation · hyderabad"
+}
